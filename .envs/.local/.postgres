@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=aspiapp
+POSTGRES_USER=SkcoIbowOnxsWgYmaIEXJdxYdPjnaaPA
+POSTGRES_PASSWORD=xwCCPzDQMCSAW365AemNYXSZOUToulbuCKuBLMriWVxj9qD0aLoho7LPQJaaoJQl
